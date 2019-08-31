@@ -6,8 +6,7 @@ Module Program
         'Console.cls()  TODO: this don't work!!
         Console.WriteLine("Type your name and press Enter")
         userInput = Console.ReadLine()
-        Console.WriteLine("You Entered " & userInput)
-        Console.Clear()
+        Console.WriteLine("Hello " & userInput & "!")
     End Sub
 
 End Module

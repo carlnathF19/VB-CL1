@@ -17,15 +17,7 @@ Module Program
         If (userInput = "Nathan") Then
             Console.WriteLine("Hi " & userInput & ".")
         End If
-        'Stop
-        'Console.Clear()
 
-    End Sub
-
-    Sub apples()
-        Dim applesSold As Integer
-        applesSold = 10
-        Console.WriteLine(applesSold)
     End Sub
 
 End Module

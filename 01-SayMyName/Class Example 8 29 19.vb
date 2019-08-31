@@ -7,8 +7,8 @@ Module Program
         userInput = Console.ReadLine()
         Console.WriteLine("You Entered " & userInput)
         apples()
-        Stop
-        Console.Clear()
+        'Stop
+        'Console.Clear()
     End Sub
 
     Sub apples()
