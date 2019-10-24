@@ -15,7 +15,7 @@ Module Program
             Console.WriteLine("Hi " & userInput & ".")
         End If
         If (userInput = "Nathan") Then
-            Console.WriteLine("Hi " & userInput & ".")
+            Console.WriteLine("BANANAS!")
         End If
 
     End Sub

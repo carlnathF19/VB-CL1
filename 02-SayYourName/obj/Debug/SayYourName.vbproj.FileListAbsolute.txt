@@ -1,0 +1,11 @@
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\bin\Debug\SayYourName.exe.config
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\bin\Debug\SayYourName.exe
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\bin\Debug\SayYourName.pdb
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\bin\Debug\SayYourName.xml
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.vbprojAssemblyReference.cache
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.Resources.resources
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.vbproj.GenerateResource.cache
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.vbproj.CoreCompileInputs.cache
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.exe
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.xml
+C:\Users\carri\Documents\GitHub\VB-CL1\02-SayYourName\SayYourName\SayYourName\obj\Debug\SayYourName.pdb
